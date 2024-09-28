@@ -2,6 +2,9 @@
 
 WaterMarkIt is a simple web application that allows you to easily add watermarks to a list of images, convert them to JPG format, and download them as a ZIP archive. You can configure the watermark size and position and save these settings locally in your browser.
 
+![WaterMarkIt Screenshot](watermark-screen.png)
+
+
 ## Features
 
 - Select or drag-and-drop images in various formats (JPEG, JPG, PNG, GIF, WEBP, AVIF).
